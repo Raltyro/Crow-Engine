@@ -1,3 +1,11 @@
 export/
 samples/
+*.DS_Store
+
 .vscode/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+
+.history
+.ionide
